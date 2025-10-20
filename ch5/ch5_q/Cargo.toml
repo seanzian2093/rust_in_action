@@ -1,0 +1,16 @@
+[package]
+name = "ch5_q"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "ch5_q"
+path = "src/lib.rs"
+
+autobenches = false
+
+autotests = true
+
+autobins = false
+
+[dependencies]
