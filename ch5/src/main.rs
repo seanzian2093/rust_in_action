@@ -1,12 +1,22 @@
+#[allow(unused)]
 mod ch5_1_int_vs_int;
+#[allow(unused)]
 mod ch5_2_f32_as_u32;
+#[allow(unused)]
 mod ch5_3_to_oblivion;
+#[allow(unused)]
 mod ch5_4_bit_patterns;
+#[allow(unused)]
 mod ch5_5_impossible_addition;
+#[allow(unused)]
 mod ch5_6_endianess;
+#[allow(unused)]
 mod ch5_10_deconstruct_f32;
+#[allow(unused)]
 mod cpu1;
+#[allow(unused)]
 mod cpu2;
+#[allow(unused)]
 mod cpu3;
 
 use ch5_q::Q7;

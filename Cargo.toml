@@ -3,4 +3,10 @@ resolver = "2"
 members = [
     "ch5",
     "ch5/ch5_q",
+    "ch6",
+    "ch6/ch6_particles",
+    "ch7",
+    "ch7/ch7-serde-eg",
+    "ch7/ch7-actionkv",
+    "ch7/ch7-write123",
 ]

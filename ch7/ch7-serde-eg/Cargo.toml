@@ -1,0 +1,15 @@
+[package]
+name = "ch7-serde-eg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bincode = { version = "2.0.1", features = ["serde"] }
+serde = "1.0.228"
+serde_cbor = "0.11.2"
+serde_derive = "1.0.228"
+serde_json = "1.0.145"
+
+[[bin]]
+name = "ch7-serde-eg"
+path = "main.rs"

@@ -4,6 +4,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/ch5/ch5_q/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-actionkv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-serde-eg/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-write123/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch7/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
