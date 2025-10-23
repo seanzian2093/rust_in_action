@@ -9,4 +9,11 @@ members = [
     "ch7/ch7-serde-eg",
     "ch7/ch7-actionkv",
     "ch7/ch7-write123",
+    "ch8",
+    "ch8/ch8-simple",
+    "ch8/ch8-stdlib",
+    "ch8/ch8-resolve",
+    "ch8/misc",
+    "ch8/ch8-mac",
+#    "ch8/ch8-mget",
 ]

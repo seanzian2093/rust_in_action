@@ -1,0 +1,14 @@
+[package]
+name = "misc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "ch8-misc-wraperror"
+path = "wraperror.rs"
+
+[[bin]]
+name = "ch8-misc-wraperror2"
+path = "wraperror2.rs"

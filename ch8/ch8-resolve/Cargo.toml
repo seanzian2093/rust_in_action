@@ -1,0 +1,13 @@
+[package]
+name = "ch8-resolve"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.10.0-rc.0"
+clap = "4.5.50"
+trust-dns-proto = "0.23.2"
+
+[[bin]]
+name = "ch8-resolve"
+path = "src/main.rs"

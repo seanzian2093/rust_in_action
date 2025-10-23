@@ -9,6 +9,11 @@
       <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-serde-eg/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch7/ch7-write123/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-mac/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-mget/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-resolve/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-simple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch8/ch8-stdlib/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

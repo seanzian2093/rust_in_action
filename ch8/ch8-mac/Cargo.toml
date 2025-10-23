@@ -1,0 +1,11 @@
+[package]
+name = "ch8-macgen"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.10.0-rc.0"
+
+[[bin]]
+name = "ch8-macgen"
+path = "src/main.rs"
