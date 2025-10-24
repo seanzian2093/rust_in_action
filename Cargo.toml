@@ -16,4 +16,13 @@ members = [
     "ch8/misc",
     "ch8/ch8-mac",
 #    "ch8/ch8-mget",
+    "ch9",
+    "ch9/ch9-clock",
+    "ch10",
+    "ch10/ch10-busythreads",
+    "ch10/ch10-multijoin",
+    "ch10/ch10-render-hex",
+    "ch10/ch10-render-hex-functional",
+    "ch10/ch10-channels-intro",
+    "ch10/ch10-channels-complex",
 ]
