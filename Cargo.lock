@@ -552,6 +552,31 @@ dependencies = [
 ]
 
 [[package]]
+name = "ch12"
+version = "0.1.0"
+
+[[package]]
+name = "ch12-basic-handler"
+version = "0.1.0"
+dependencies = [
+ "libc 1.0.0-alpha.1",
+]
+
+[[package]]
+name = "ch12-ignore"
+version = "0.1.0"
+dependencies = [
+ "libc 1.0.0-alpha.1",
+]
+
+[[package]]
+name = "ch12-toy-global"
+version = "0.1.0"
+dependencies = [
+ "rand 0.10.0-rc.0",
+]
+
+[[package]]
 name = "ch5"
 version = "0.1.0"
 dependencies = [

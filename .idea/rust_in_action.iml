@@ -21,6 +21,10 @@
       <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex-functional/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch10/ch10-render-hex/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/ch12-basic-handler/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/ch12-ignore/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/ch12-toy-global/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch12/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch9/ch9-clock/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>

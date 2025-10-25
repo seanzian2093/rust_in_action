@@ -25,4 +25,8 @@ members = [
     "ch10/ch10-render-hex-functional",
     "ch10/ch10-channels-intro",
     "ch10/ch10-channels-complex",
+    "ch12",
+    "ch12/ch12-toy-global",
+    "ch12/ch12-basic-handler",
+    "ch12/ch12-ignore",
 ]
